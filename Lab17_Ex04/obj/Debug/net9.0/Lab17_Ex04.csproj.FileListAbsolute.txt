@@ -1,0 +1,15 @@
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.AssemblyInfoInputs.cache
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.AssemblyInfo.cs
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.csproj.CoreCompileInputs.cache
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.sourcelink.json
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\bin\Debug\net9.0\Lab17_Ex04.exe
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\bin\Debug\net9.0\Lab17_Ex04.deps.json
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\bin\Debug\net9.0\Lab17_Ex04.runtimeconfig.json
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\bin\Debug\net9.0\Lab17_Ex04.dll
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\bin\Debug\net9.0\Lab17_Ex04.pdb
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.dll
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\refint\Lab17_Ex04.dll
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.pdb
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.genruntimeconfig.cache
+D:\OOP\lab17-2\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\ref\Lab17_Ex04.dll
